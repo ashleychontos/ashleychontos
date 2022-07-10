@@ -19,3 +19,5 @@ After that, I'll be heading back to the mainland to join the A-MAZING astro depa
 - sometimes I [tweet](https://twitter.com/ashleychontos?lang=en) about science but really it's just a front for lots of cat pictures and other nonsensical things (so don't fall for it)
 - I am a huge fan of pretty plots and will go to the ends of the Earth to make them (even if it means making collaborator figures from scratch myself)
 - I have a [website](https://ashleyin.space) but cannot guarantee that it's been updated any time recently (probably not since job applications lol)
+
+#### @ me -> achontos[@]hawaii.edu
