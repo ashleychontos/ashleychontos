@@ -5,7 +5,7 @@ I recently received my Ph.D. in astronomy working with Dan Huber on many things 
 #### currently:
 
 - investigating post-main-sequence star/planet evolution using a homogeneous sample of 22 TESS subgiant systems, which is the largest dedicated (homogeneous) survey to date for studying planets orbiting subgiant stars [→ and is a major component of my PhD thesis]
-- science-ing and observing in support of the TESS-Keck Survey
-- developing open-source asteroseismology software for the broader astronomy community aka ``pySYD`` (peep [here](https://pysyd.readthedocs.io))
+- science-ing and observing in support of the California Planet Search and TESS-Keck Survey collaborations
+- developing open-source asteroseismology software for the broader astronomy community i.e. ``pySYD`` (peep [here](https://pysyd.readthedocs.io))
 
 #### @ me -> ashleychontos[@]princeton.edu
