@@ -8,4 +8,4 @@ I recently received my Ph.D. in astronomy working with Dan Huber on many things 
 - science-ing and observing in support of the California Planet Search and TESS-Keck Survey collaborations
 - developing open-source asteroseismology software for the broader astronomy community i.e. ``pySYD`` (peep [here](https://pysyd.readthedocs.io))
 
-#### @ me -> ashleychontos[@]princeton.edu
+#### @ me -> ashleychontos[AT]astro.princeton.edu
